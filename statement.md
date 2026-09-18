@@ -53,3 +53,8 @@ The project can be further extended by using larger datasets, advanced machine l
 ## Author
 
 **Gagandeep Singh Rathore**
+<img width="1470" height="748" alt="Screenshot 2026-09-18 211231" src="https://github.com/user-attachments/assets/6397984d-8bb1-4f4f-bad1-7294cdc7d953" />
+<img width="1473" height="727" alt="Screenshot 2026-09-18 211212" src="https://github.com/user-attachments/assets/eee61eda-8583-4a4c-81aa-1e6c2c1b138b" />
+<img width="1475" height="720" alt="Screenshot 2026-09-18 211150" src="https://github.com/user-attachments/assets/5eb0bc92-d606-4ca1-81da-312a0c92d76a" />
+<img width="1475" height="720" alt="Screenshot 2026-09-18 211150" src="https://github.com/user-attachments/assets/79965fe1-a85d-4b5f-b4bf-8f98f88aff55" />
+
